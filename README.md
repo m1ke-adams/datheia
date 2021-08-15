@@ -2,4 +2,4 @@
 
 İnternette genellikle ``theia`` ismiyle dolaşırım. 
 
-### Bildiğim diller: ![Python](https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png "Python")
+### Bildiğim diller: ![Python](https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico "Python")
