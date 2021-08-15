@@ -2,4 +2,4 @@
 
 İnternette genellikle ``theia`` ismiyle dolaşırım. 
 
-### Bildiğim diller: ![](https://iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico =16x16)
+### Bildiğim diller: <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text.png width="200" height="400" />
